@@ -1,6 +1,5 @@
-### Hi there 👋
 
-<h3 align="center">Hi, I'm Stanly! I'm a passionate software engineer with a knack for problem-solving and a love for clean, efficient code.</h3>
+<h3 align="center">👋 Hi, I'm Stanly! I'm a passionate software engineer with a knack for problem-solving and a love for clean, efficient code.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stanthegr8&label=Profile%20views&color=0e75b6&style=flat" alt="stanthegr8" /> </p>
 
